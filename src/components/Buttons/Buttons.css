@@ -19,7 +19,7 @@ button{
 }
 button:hover{
     background-color: #766CF1;
-    cursor: pointergi;
+    cursor: pointer;
 }
 
 .cancel{
@@ -33,5 +33,13 @@ button:hover{
 .cancel:hover{
     cursor: pointer;
     color:#1F2E55;
+}
+
+@media screen and (max-width:360px){
+    button{
+        max-width: 279px;
+        
+    }
+
 }
 

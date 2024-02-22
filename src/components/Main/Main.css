@@ -58,3 +58,44 @@ h4{
     font-weight: 700;
     border-bottom: 1px solid #382AE1;
 }
+
+@media screen and (max-width:360px){
+    h1{
+        font-size: 22px;
+        font-weight: 900;
+        line-height: 29px;
+    }
+    .mainP{
+        font-size: 15px;
+        max-width:263px;
+        text-align: center;
+        margin: auto;
+    }
+    .annualPlan{
+        max-width:279px;
+    }
+
+    .icon{
+        max-width: 48px;
+        max-height: 48px;
+    }
+
+    .year h5{
+        font-size: 14px;
+    }
+
+    h4{
+        font-size: 14px;
+    }
+
+    .year{
+        margin-right:25px;
+    }
+
+
+
+
+
+
+
+}

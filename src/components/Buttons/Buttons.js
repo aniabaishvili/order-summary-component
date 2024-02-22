@@ -4,7 +4,7 @@ function Buttons(){
     return (
         <div claassName='buttons'>
             <button>Proceed To Payment</button>
-            <p className='cancel'>Cancel</p>
+            <p className='cancel'>Cancel Order</p>
 
         </div>
     )
