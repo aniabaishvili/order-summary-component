@@ -1,0 +1,60 @@
+
+h1{
+    text-align: center;
+    font-weight:900;
+    font-size: 28px;
+    color:#1F2E55;
+}
+
+.mainP{
+    text-align: center;
+    color:#717Fa6;
+    font-weight: 400;
+    font-size: 20px;
+    width:354px;
+    height:78px;
+}
+
+.icon{
+    width:48px;
+    height:48px;
+    border-radius: 30%;
+}
+
+.annualPlan{
+    background-color: #F7F9FF;
+    width:375px;
+    height:98px;
+    margin: auto;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+
+.year{
+    margin-right: 80px;
+}
+
+.year h6, .year h5{
+    margin: 5px;
+}
+
+.year h5{
+    color: #1F2E55;
+    font-weight: 900;
+    font-size: 16px;
+}
+
+.year h6{
+    color:#717FA6;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.17px;
+}
+
+h4{
+    color:#382AE1;
+    font-size: 14px;
+    font-weight: 700;
+    border-bottom: 1px solid #382AE1;
+}
